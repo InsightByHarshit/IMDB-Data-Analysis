@@ -10,7 +10,9 @@ The dataset used in this project is the IMDB dataset, which contains information
 
 *Tools and Techniques:
 
-Python: The primary programming language used for data cleaning, analysis, and visualization.
+Python:The primary programming language used for data cleaning, analysis, and visualization.
+
 Pandas and NumPy: For data manipulation and analysis.
+
 Matplotlib and Seaborn: For data visualization.
 
